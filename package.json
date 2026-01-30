@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "MCP server for axe-core accessibility audits",
   "dependencies": {
     "@axe-core/playwright": "^4.11.0",
