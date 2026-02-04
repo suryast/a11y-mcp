@@ -13,7 +13,7 @@
   "description": "MCP server for axe-core accessibility audits",
   "dependencies": {
     "@axe-core/playwright": "^4.11.0",
-    "@modelcontextprotocol/sdk": "^1.25.3",
+    "@modelcontextprotocol/sdk": "^1.26.0",
     "axe-core": "^4.11.1",
     "jsdom": "^27.4.0",
     "playwright": "^1.58.0",
