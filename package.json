@@ -12,16 +12,16 @@
   "license": "MIT",
   "description": "MCP server for axe-core accessibility audits",
   "dependencies": {
-    "@axe-core/playwright": "^4.11.0",
-    "@modelcontextprotocol/sdk": "^1.25.3",
-    "axe-core": "^4.11.1",
+    "@axe-core/playwright": "^4.12.1",
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "axe-core": "^4.12.1",
     "jsdom": "^27.4.0",
-    "playwright": "^1.58.0",
-    "zod": "^4.3.6"
+    "playwright": "^1.62.1",
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@types/jsdom": "^27.0.0",
-    "@types/node": "^25.1.0",
+    "@types/node": "^25.9.5",
     "typescript": "^5.9.3"
   }
 }
