@@ -84,6 +84,6 @@ Ask your AI assistant:
 
 ## License
 
-MPL-2.0 - See [LICENSE](LICENSE)
+MIT - See [LICENSE](LICENSE)
 
 This project uses [axe-core](https://github.com/dequelabs/axe-core) which is licensed under MPL-2.0.
